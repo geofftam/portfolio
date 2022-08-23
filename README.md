@@ -1,4 +1,5 @@
-# Geoff Tam: Data Analyst Portfolio
+# Geoff Tam: Data Analyst 
+My name is Geoff, and I have been working as a Data Analyst with Fraym for the past 2 years on client engagements spanning public health, open source intelligence, youth employment, climate change, and energy access. I have experience with R, STATA, Python, and ArcGIS Pro. 
 
 ## [Project 1: Youth Employment Survey Analysis in R Using the Tunisa Labor Market Panel Survey](https://github.com/geofftam/projects/blob/main/survey_analysis_tlmps_2014.md)
 * Complex household survey analysis of Tunisian youth and labor participation 
