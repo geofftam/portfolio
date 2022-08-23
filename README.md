@@ -5,4 +5,4 @@ My name is Geoff, and I have 2 years of client-facing experience in a start-up e
 * Complex household survey analysis of Tunisian youth and labor participation 
 * Client leveraged findings to develop youth employment programming in partnership with team from foreign ministry. 
 
-![](projects/blob/main/images/tlmps_fig1_subpop_waffle.png)
+![](/projects/blob/main/images/tlmps_fig1_subpop_waffle.png)
