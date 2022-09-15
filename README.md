@@ -1,3 +1,4 @@
+# Biography
 My name is Geoff, and I have 2 years of experience in a start-up environment working on client-facing data analysis projects spanning public health, open source intelligence, youth employment, climate change, and energy access. My work primarily relies on R, Python, ArcGIS Pro, and STATA. I received my master's in international affairs with a concentration in development economics from the Fletcher School of Law and Diplomacy at Tufts University, and I am currently based in Alexandria, VA. 
 
 # Work Samples
