@@ -10,7 +10,7 @@ This engagement highlighted sub-national variation in child marriage prevalence 
 ## [Making Sense of the Hype: What We Know about ISIS-Mozambique's Attacks in Tanzania](https://fraym.io/blog/isis-mozambique-tanzania/)
 For this post, I worked with advisors from the Center for Strategic and International Studies (CSIS) interested in learning more about the influence of ISIS at the border of Mozambique and Tanzania. To support the authors in this piece, I pulled conflict event points from the Armed Conflict Location & Event Data Project (ACLED) API in R, constructed a poverty index from hyperlocal social data from our interpolation software, and created the spatial visual in ArcGIS Pro. 
 
-![Tanzania_violence](https://github.com/geofftam/portfolio/blob/main/images/mtwara_acled_vulnerability.png)
+![](/images/mtwara_acled_vulnerability.png)
 
 ## [Using Machine Learning to Map Migration Drivers](https://fraym.io/blog/using-machine-learning-to-map-migration-drivers/)
 The analysis referenced in this blog post relies on survey data collected by a third party in the Northern Triangle region of Central America. I supervised a team of three analysts to clean, translate, and harmonize the data, geocode and cluster the respondents, and produce analysis-ready hyperlocal data layers. 
