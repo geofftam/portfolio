@@ -12,3 +12,12 @@ For this post, I worked with advisors from the Center for Strategic and Internat
 
 ### [Using Machine Learning to Map Migration Drivers](https://fraym.io/blog/using-machine-learning-to-map-migration-drivers/)
 The analysis referenced in this blog post relies on survey data collected by a third party in the Northern Triangle region of Central America. I supervised a team of three analysts to clean, translate, and harmonize the data, geocode and cluster the respondents, and produce analysis-ready hyperlocal data layers. 
+
+## Professional Development
+These notebooks document my process as I build practical skills in spatial analysis and machine learning through small projects and exercises. 
+
+### [Kaggle: Regression Analysis of Red Wine Quality](https://www.kaggle.com/code/geofftam/red-wine-quality-regression)
+In this notebook, I rely on code from Aurelien Geron's [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) to conduct regression analysis on one of Kaggle's most popular practice datasets: Red Wine Quality. 
+
+### [Earth Lab: Earth Analytics Tutorials from Introductory and Intermediate Textbooks](https://github.com/geofftam/earth-analytics-tutorials)
+These notebooks document the sections I have reviewed from [CU Boulder Earth Lab's](https://www.earthdatascience.org/courses/) materials on earth analytics in python including time series analysis, working with rasters and vectors, and multispectral remote sensing data. 
