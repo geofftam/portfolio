@@ -26,4 +26,4 @@ In this notebook, I rely on code from Aurelien Geron's [Hands-On Machine Learnin
 ## [Earth Lab: Earth Analytics Tutorials from Introductory and Intermediate Textbooks](https://github.com/geofftam/earth-analytics-tutorials)
 These notebooks document the sections I have reviewed from [CU Boulder Earth Lab's](https://www.earthdatascience.org/courses/) materials on earth analytics in python including time series analysis, working with rasters and vectors, and multispectral remote sensing data. 
 
-![](/images/NAIP_output.png
+![](/images/NAIP_output.png)
