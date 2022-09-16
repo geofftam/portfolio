@@ -1,5 +1,5 @@
 # Geoff Tam
-I have 2 years of experience as a data analyst in a start-up environment working on client-facing projects spanning public health, open source intelligence, youth employment, climate change, and energy access. My work primarily relies on R, Python, ArcGIS Pro, and STATA. I received my master's in international affairs with a concentration in development economics from the Fletcher School of Law and Diplomacy at Tufts University, and I am currently based in Alexandria, VA. 
+I am a project manager and data analyst at a start-up working on client-facing projects spanning public health, open source intelligence, youth employment, climate change, and energy access. My work primarily relies on R, Python, ArcGIS Pro, and STATA. I received my master's in international affairs with a concentration in development economics from the Fletcher School of Law and Diplomacy at Tufts University, and I am currently based in Alexandria, VA. 
 
 # Work Samples
 The following blog posts describe work that I have contributed to while employed as a data analyst at [Fraym](https://fraym.io/), a dynamic geospatial start-up putting hyperlocal population data in the hands of policymakers, researchers, and local stakeholders in data poor geographies around the world. Please note that I was not involved in writing the blog posts themselves. 
