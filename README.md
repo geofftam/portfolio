@@ -14,7 +14,3 @@ For this post, I worked with advisors from the Center for Strategic and Internat
 
 ## [Using Machine Learning to Map Migration Drivers](https://fraym.io/blog/using-machine-learning-to-map-migration-drivers/)
 The analysis referenced in this blog post relies on survey data collected by a third party in the Northern Triangle region of Central America. I supervised a team of three analysts to clean, translate, and harmonize the data, geocode and cluster the respondents, and produce analysis-ready hyperlocal data layers. 
-
-# Professional Development
-These notebooks document my process as I build practical skills in spatial analysis and machine learning through small projects and exercises. 
-
