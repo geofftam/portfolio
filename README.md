@@ -22,3 +22,5 @@ The following projects stem from personal exploration of data, tools, and method
 
 ## [Exploratory Spatial Data Analysis in R](https://rpubs.com/gtam/esda)
 In this script, I use tidycensus and the Google Maps API to investigate the spatial distribution of Peruvian chicken restaurants in the area around where I live in Northern Virginia. This was a helpful exercise for me to practice visualization and spatial analysis techniques in R. 
+
+![](/images/nova_peru_plot.png)
