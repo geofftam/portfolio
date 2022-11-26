@@ -16,3 +16,9 @@ For this post, I worked with advisors from the Center for Strategic and Internat
 
 ## [Using Machine Learning to Map Migration Drivers](https://fraym.io/blog/using-machine-learning-to-map-migration-drivers/)
 The analysis referenced in this blog post relies on survey data collected by a third party in the Northern Triangle region of Central America. I supervised a team of three analysts to clean, translate, and harmonize the data, geocode and cluster the respondents, and produce analysis-ready hyperlocal data layers. 
+
+# Personal Projects
+The following projects stem from personal exploration of data, tools, and methods that I have conducted for professional development and intellectual curiosity.
+
+## [Exploratory Spatial Data Analysis in R](https://rpubs.com/gtam/esda)
+In this script, I use tidycensus and the Google Maps API to investigate the spatial distribution of Peruvian chicken restaurants in the area around where I live in Northern Virginia. This was a helpful exercise for me to practice visualization and spatial analysis techniques in R. 
